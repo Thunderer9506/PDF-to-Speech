@@ -5,6 +5,15 @@ This project automatically extracts text from a PDF file and generates an audio 
 
 ---
 
+## V2 Updates
+- From Terminal based to UI using streamlit
+- Generate Audio
+- Can download generated audio
+- Default PDF and audio are provided for testing
+- ![Pdf-to-Audio.com](https://pdf-to-audiobok.streamlit.app/)
+
+---
+
 ## 🚀 Features
 
 - 📄 Extracts text from **any PDF** file  
